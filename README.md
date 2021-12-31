@@ -1,0 +1,1 @@
+# Optical-Char-Recognition-MNST-Dataset-Using-Pytorch
